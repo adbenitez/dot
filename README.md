@@ -1,3 +1,5 @@
+<p align="center"><img src="artwork/logo.png" width=480 alt="DOT logo"/></p>
+
 Delta Othello Tournament
 =============================
 
