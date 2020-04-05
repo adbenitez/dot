@@ -1,4 +1,4 @@
-<img src="artwork/logo.png" alt="DOT logo"/>
+<img src="artwork/logo.png" width="150px" alt="DOT logo"/>
 
 Delta Othello Tournament
 =============================
